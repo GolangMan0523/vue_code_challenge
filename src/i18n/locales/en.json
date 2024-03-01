@@ -1,0 +1,50 @@
+{
+  "application": {
+    "name": "Demo Application",
+    "tag": "Basic setup to get a solid Vue 3 application off the ground"
+  },
+  "menu": {
+    "about": "About",
+    "dashboard": "Dashboard",
+    "home": "Home",
+    "login": "Login",
+    "logout": "Logout",
+    "notifications": "Notifications",
+    "profile": "Profile",
+    "recent": "Recent",
+    "settings": "Settings",
+    "signup": "Sign Up",
+    "tasks": "My Tasks",
+    "user": "User Menu"
+  },
+  "form": {
+    "company": "Company",
+    "email": "Email",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "maxChars": "Max. {number} characters",
+    "optional": "Optional",
+    "phone": "Phone",
+    "submit": "Submit"
+  },
+  "about": {
+    "header": "Let's work together",
+    "description": "We’d love to hear from you! Send us a message by filling up this form.",
+    "form": {
+      "help": "How can we help you?",
+      "hear": "How did you hear about us?"
+    }
+  },
+  "comingSoon": {
+    "comingSoon": "Coming soon",
+    "header1": "Data to enrich your",
+    "header2": "online business",
+    "description": "Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua ad ad non deserunt sunt.",
+    "signup": "Sign up to get notified when it’s ready.",
+    "email": "Enter your email",
+    "notifyMe": "Notify me",
+    "care": "We care about the protection of your data. Read our",
+    "privacyPolicy": "Privacy Policy",
+    "video": "Watch our video to learn more"
+  }
+}

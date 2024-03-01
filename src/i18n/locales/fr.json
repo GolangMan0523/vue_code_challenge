@@ -1,0 +1,47 @@
+{
+  "application": {
+    "name": "Demo Application",
+    "tag": "Application de base pour lancer rapidement une application Vue 3"
+  },
+  "menu": {
+    "about": "À Propos",
+    "dashboard": "Tableau de bord",
+    "home": "Accueil",
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "notifications": "Voir alertes",
+    "profile": "Profile",
+    "signup": "Inscription",
+    "user": "Menu Utilisateur"
+  },
+  "form": {
+    "company": "Compagnie",
+    "email": "Courriel",
+    "firstName": "Prénom",
+    "lastName": "Nom de famille",
+    "maxChars": "{number} caractères max",
+    "optional": "Optionnel",
+    "phone": "Téléphone",
+    "submit": "Soumettre"
+  },
+  "about": {
+    "header": "Travaillons ensemble",
+    "description": "Nous aimerions entendre parler de vous! Laissez-nous un message en remplissant ce formulaire",
+    "form": {
+      "help": "Comment pouvons-nous vous aider?",
+      "hear": "Comment avez-vous entendu parler de nous?"
+    }
+  },
+  "comingSoon": {
+    "comingSoon": "Bientôt disponible",
+    "header1": "Données pour enrichir",
+    "header2": "votre entreprise",
+    "description": "Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua ad ad non deserunt sunt.",
+    "signup": "Inscrivez-vous pour être averti lorsque nous serons prêts.",
+    "email": "Entrer votre adresse courriel",
+    "notifyMe": "Prévenez-moi",
+    "care": "Nous avons à coeur la protection de vos données. Consultez notre ",
+    "privacyPolicy": "politique de confidentialité",
+    "video": "Regardez notre vidéo pour en connaître davantage"
+  }
+}
